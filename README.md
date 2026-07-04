@@ -1,3 +1,5 @@
+# I'm Francisco 👋
+
 ### 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Mendonca&show_icons=true&theme=radical)](https://github.com/Francisco-Mendonca)
+[![Francisco Mendonca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Mendonca)](https://github.com/Francisco-Mendonca/github-readme-stats)
